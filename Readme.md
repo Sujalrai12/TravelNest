@@ -1,6 +1,6 @@
-# StayERA
+# Travel Nest
 
-StayERA is a full-stack travel accommodation platform that allows users to discover destinations, create property listings, upload images, view locations on interactive maps, and share reviews.
+Travel Nest is a full-stack travel accommodation platform that allows users to discover destinations, create property listings, upload images, view locations on interactive maps, and share reviews.
 Built using the MVC Architecture, the project demonstrates backend development, authentication, database design, cloud storage integration, and geolocation services.
 
 ---
@@ -128,11 +128,11 @@ Through this project, I gained practical experience with:
 ---
 
 ## Live Demo
-🔗 https://stayera.onrender.com
+🔗 (https://travelnest-3oye.onrender.com)
 ---
 
 ## Developer
 
-**UMESH FARKADE**
+**Sujal Rai **
 Aspiring Software Developer passionate about building scalable web applications and creating intuitive user experiences.
-"# stayera" 
+"# Travel Nest" 
