@@ -1,6 +1,6 @@
 # Travel Nest
 
-Travel Nest is a full-stack travel accommodation platform that allows users to discover destinations, create property listings, upload images, view locations on interactive maps, and share reviews.
+Travel Nest is a full-stack travel accommodation platform that allows users to discover destinations, create property listings, upload images, and share reviews.
 Built using the MVC Architecture, the project demonstrates backend development, authentication, database design, cloud storage integration, and geolocation services.
 
 ---
@@ -10,7 +10,6 @@ Built using the MVC Architecture, the project demonstrates backend development, 
 - Developed a complete CRUD-based travel listing platform.
 - Implemented secure user authentication and authorization using Passport.js.
 - Integrated Cloudinary for cloud-based image storage and management.
-- Added geocoding and interactive maps for location visualization.
 - Designed a responsive user interface using Bootstrap and EJS templates.
 - Structured the application following the MVC design pattern for scalability and maintainability.
 
@@ -44,7 +43,6 @@ Built using the MVC Architecture, the project demonstrates backend development, 
 **Third-Party Services**
 
 - Cloudinary
-- Geocoding API
 
 ---
 
@@ -73,12 +71,6 @@ Built using the MVC Architecture, the project demonstrates backend development, 
 - Rating Functionality
 - Data Validation
 
-**Maps & Location Services**
-
-- Geocoding Support
-- Interactive Location Maps
-- Destination Visualization
-
 ---
 
 ## Architecture
@@ -99,7 +91,7 @@ This architecture improves code organization, maintainability, and scalability.
 ## Project Structure
 
 ```
-StayYaar/
+Travel Nest/
 ├── controllers/
 ├── models/
 ├── routes/
@@ -121,7 +113,6 @@ Through this project, I gained practical experience with:
 - Authentication & Authorization
 - MongoDB Data Modeling
 - Cloud Storage Integration
-- Geolocation Services
 - MVC Architecture
 - Full-Stack Web Development
 
